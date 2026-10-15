@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/asdf-astropy/commit/de7045b49ae13b5acc519124c0735f4c4a406d3b",
       "git:hexsha": "de7045b49ae13b5acc519124c0735f4c4a406d3b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/astropy/asdf-astropy/commit/567ac00ccecba5b02ee092b5a07fdd5451d41dcf",
