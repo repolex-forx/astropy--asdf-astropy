@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "asdf-astropy",
+  "versions": [
+    {
+      "commit": "de7045b49ae13b5acc519124c0735f4c4a406d3b",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:34:20.366778+00:00"
+    }
+  ]
+}
